@@ -11,6 +11,8 @@
 
 **ShadowConnect** is an advanced, fully undetected (FUD) reverse shell implementation designed for penetration testing and ethical hacking purposes. It employs multiple obfuscation techniques, anti-analysis measures, and persistence mechanisms to avoid detection by security solutions.
 
+[![VirusTotal](https://img.shields.io/badge/VirusTotal-0%2F70%20malicious-green?logo=virustotal&logoColor=white&style=for-the-badge)](https://www.virustotal.com/gui/file/5189cb50e2abe0297f8ffae6e31d1a4d763b9b9a919d87a47ec8e0a64c530cf0)
+
 ## ✨ Features
 
 - 🔥 **Fully Undetected** - 0/68 detection on VirusTotal
