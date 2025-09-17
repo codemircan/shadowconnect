@@ -12,7 +12,7 @@ DEFAULT_DELAY="300"
 if [ ! -f "$CONFIG_FILE" ]; then
     cat > "$CONFIG_FILE" << EOF
 # System update configuration
-SERVER_HOST=your-server.com
+SERVER_HOST=127.0.0.1
 SERVER_PORT=443
 CHECK_INTERVAL=300
 EOF
